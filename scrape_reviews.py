@@ -39,31 +39,15 @@ def scroll_click(id,driver):
     # Wait for page to load
     time.sleep(2)
     # Optionally click a "Show More" button
-    buttons = driver.find_elements(By.CLASS_NAME,"review-spoiler-button")
-
-    # Loop through and click each one
-    for idx, button in enumerate(buttons):
-        try:
-            # Scroll the button into view
-            driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", button)
-            time.sleep(1)
-
-            # Wait until the button is clickable
-            WebDriverWait(driver, 10).until(
-                EC.element_to_be_clickable((By.CLASS_NAME,"review-spoiler-button"))
+    WebDriverWait(driver, 10).until(
+                EC.element_to_be_clickable((By.CLASS_NAME,"ipc-list-card__content"))
             )
-
-            # Use ActionChains to click (more reliable)
-            ActionChains(driver).move_to_element(button).click().perform()
-            print(f"✅ Clicked button #{idx + 1}")
-
-            time.sleep(0.5)  # delay between clicks
-
-        except Exception as e:
-            print(f"⚠️ Skipping button #{idx + 1} due to error: {e}")
+    driver.execute_script("""
+        document.querySelectorAll('button.review-spoiler-button')
+            .forEach(btn => btn.click());
+    """)
     time.sleep(1)
     rev =get_reviews(id,driver.page_source)
-    
     return rev
 
 # let th scraping begin 🔥

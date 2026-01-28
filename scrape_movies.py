@@ -1,41 +1,55 @@
 from bs4 import BeautifulSoup
 import requests
 import time
-import pandas as pd
+import json
+import os 
+from dotenv import load_dotenv
+
+load_dotenv()
+api= os.getenv("API_KEY")
+
+# Function to scrape id of 25 popular movies for a year
 
 def popular_movies(url):
    movies=[]
    headers = {
-        "User-Agent": "Mozilla/5.0"
+        "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/120.0.0.0 Safari/537.36"
+        )
     }
    response = requests.get(url,headers=headers)
    soup = BeautifulSoup(response.content, "html.parser")
-   review_blocks = soup.find_all("h3", class_="ipc-title__text ipc-title__text--reduced")
+   review_blocks = soup.find_all("a", class_="ipc-title-link-wrapper")
    for r in review_blocks :
-    title = r.text
-    movies.append(title)
+    title = r.get("href")
+    movies.append(title.split("/")[2]) # 
    return movies
 
 # fetching popular movies
-years =[2015,2016,2017,2018,2019,2020,2021,2022,2023,2024]
+years =list(range(2020,2026,1))
 yearlist ={}
 for year in years:
   m_list =popular_movies(f"https://www.imdb.com/search/title/?explore=genres&title_type=feature&release_date={year}-01-01,{year}-12-31&user_rating=6,10&num_votes=25000,")
   yearlist[year]=m_list
+  print(f"✅ Fetched for {year}")
   time.sleep(2)
-print(yearlist)
-for m in yearlist:
-  yearlist[m].remove("Recently viewed")
+# print(yearlist)
 
-id_list ={}
-for m in yearlist:
+
+movie_list ={}
+for year in yearlist:
   movies=[]
-  for i in yearlist[m]:
-    i = " ".join(i.split()[1:])
-    omdb_url = f"http://www.omdbapi.com/?apikey=2fd35f7f&t={i}"
+  for id in yearlist[year]:
+    print(id)
+    omdb_url = f"http://www.omdbapi.com/?apikey={api}&i={id}"
     response = requests.get(omdb_url)
     data = response.json()
-    movies.append({"id":data["imdbID"],"title":i,"rating":data["imdbRating"],"genre":data["Genre"]})
-  id_list[m]=movies
+    print(data)
+    movies.append({"id":id,"title":data["Title"],"rating":data["imdbRating"],"genre":data["Genre"],"actors":data["Actors"],"directors":["Director"]})
+  movie_list[year]=movies
 
 # dump dict into json
+with open("movie_list.json", "w", encoding="utf-8") as f:
+    json.dump(movie_list, f, ensure_ascii=False, indent=4)

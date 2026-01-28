@@ -1,0 +1,1514 @@
+{
+    "2020": [
+        {
+            "id": "tt7737786",
+            "title": "Greenland",
+            "rating": "6.4",
+            "genre": "Action, Adventure, Thriller",
+            "actors": "Gerard Butler, Morena Baccarin, Roger Dale Floyd",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt6723592",
+            "title": "Tenet",
+            "rating": "7.3",
+            "genre": "Action, Sci-Fi, Thriller",
+            "actors": "John David Washington, Robert Pattinson, Elizabeth Debicki",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt7846844",
+            "title": "Enola Holmes",
+            "rating": "6.6",
+            "genre": "Adventure, Crime, Drama",
+            "actors": "Millie Bobby Brown, Henry Cavill, Sam Claflin",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt10314450",
+            "title": "Becky",
+            "rating": "6.1",
+            "genre": "Action, Crime, Drama",
+            "actors": "Lulu Wilson, Kevin James, Joel McHale",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt9620292",
+            "title": "Promising Young Woman",
+            "rating": "7.5",
+            "genre": "Crime, Drama, Mystery",
+            "actors": "Carey Mulligan, Bo Burnham, Alison Brie",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt10272386",
+            "title": "The Father",
+            "rating": "8.2",
+            "genre": "Drama, Mystery",
+            "actors": "Anthony Hopkins, Olivia Colman, Mark Gatiss",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt8503618",
+            "title": "Hamilton",
+            "rating": "8.3",
+            "genre": "Biography, Drama, History",
+            "actors": "Lin-Manuel Miranda, Phillipa Soo, Leslie Odom Jr.",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt7939766",
+            "title": "I'm Thinking of Ending Things",
+            "rating": "6.5",
+            "genre": "Drama, Thriller",
+            "actors": "Jesse Plemons, Jessie Buckley, Toni Collette",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt9484998",
+            "title": "Palm Springs",
+            "rating": "7.4",
+            "genre": "Comedy, Fantasy, Mystery",
+            "actors": "Andy Samberg, Cristin Milioti, J.K. Simmons",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt6048922",
+            "title": "Greyhound",
+            "rating": "7.0",
+            "genre": "Drama, History, War",
+            "actors": "Tom Hanks, Elisabeth Shue, Stephen Graham",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt9770150",
+            "title": "Nomadland",
+            "rating": "7.3",
+            "genre": "Drama",
+            "actors": "Frances McDormand, Gay DeForest, Patricia Grier",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt8368512",
+            "title": "The Courier",
+            "rating": "7.2",
+            "genre": "Drama, History, Mystery",
+            "actors": "Benedict Cumberbatch, Merab Ninidze, Rachel Brosnahan",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt7395114",
+            "title": "The Devil All the Time",
+            "rating": "7.1",
+            "genre": "Crime, Drama, Thriller",
+            "actors": "Bill Skarsgård, Tom Holland, Banks Repeta",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt8244784",
+            "title": "The Hunt",
+            "rating": "6.6",
+            "genre": "Action, Horror, Thriller",
+            "actors": "Betty Gilpin, Hilary Swank, Ike Barinholtz",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt10288566",
+            "title": "Another Round",
+            "rating": "7.7",
+            "genre": "Comedy, Drama",
+            "actors": "Mads Mikkelsen, Thomas Bo Larsen, Magnus Millang",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt2948372",
+            "title": "Soul",
+            "rating": "8.0",
+            "genre": "Animation, Adventure, Comedy",
+            "actors": "Jamie Foxx, Tina Fey, Graham Norton",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt9214832",
+            "title": "Emma.",
+            "rating": "6.7",
+            "genre": "Comedy, Drama, Romance",
+            "actors": "Anya Taylor-Joy, Johnny Flynn, Josh O'Connor",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt8332922",
+            "title": "A Quiet Place Part II",
+            "rating": "7.2",
+            "genre": "Drama, Horror, Sci-Fi",
+            "actors": "Emily Blunt, Millicent Simmonds, Cillian Murphy",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt7638348",
+            "title": "Boss Level",
+            "rating": "6.8",
+            "genre": "Action, Adventure, Comedy",
+            "actors": "Frank Grillo, Mel Gibson, Naomi Watts",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt8936646",
+            "title": "Extraction",
+            "rating": "6.8",
+            "genre": "Action, Crime, Thriller",
+            "actors": "Chris Hemsworth, Bryon Lerum, Ryder Lerum",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt1051906",
+            "title": "The Invisible Man",
+            "rating": "7.1",
+            "genre": "Drama, Horror, Mystery",
+            "actors": "Elisabeth Moss, Oliver Jackson-Cohen, Harriet Dyer",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt8633478",
+            "title": "Run",
+            "rating": "6.7",
+            "genre": "Drama, Horror, Mystery",
+            "actors": "Sarah Paulson, Kiera Allen, Sara Sohn",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt5867314",
+            "title": "The Empty Man",
+            "rating": "6.2",
+            "genre": "Drama, Horror, Mystery",
+            "actors": "James Badge Dale, Marin Ireland, Sasha Frolova",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt10059518",
+            "title": "Unhinged",
+            "rating": "6.0",
+            "genre": "Action, Thriller",
+            "actors": "Russell Crowe, Caren Pistorius, Gabriel Bateman",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt3794354",
+            "title": "Sonic the Hedgehog",
+            "rating": "6.5",
+            "genre": "Action, Adventure, Comedy",
+            "actors": "Ben Schwartz, James Marsden, Jim Carrey",
+            "directors": [
+                "Director"
+            ]
+        }
+    ],
+    "2021": [
+        {
+            "id": "tt1160419",
+            "title": "Dune: Part One",
+            "rating": "8.0",
+            "genre": "Action, Adventure, Drama",
+            "actors": "Timothée Chalamet, Rebecca Ferguson, Zendaya",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt11235772",
+            "title": "The Voyeurs",
+            "rating": "6.1",
+            "genre": "Drama, Mystery, Romance",
+            "actors": "Sydney Sweeney, Justice Smith, Ben Hardy",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt10872600",
+            "title": "Spider-Man: No Way Home",
+            "rating": "8.2",
+            "genre": "Action, Adventure, Fantasy",
+            "actors": "Tom Holland, Zendaya, Benedict Cumberbatch",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt10370710",
+            "title": "The Worst Person in the World",
+            "rating": "7.7",
+            "genre": "Comedy, Drama, Romance",
+            "actors": "Renate Reinsve, Anders Danielsen Lie, Herbert Nordrum",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt11286314",
+            "title": "Don't Look Up",
+            "rating": "7.1",
+            "genre": "Comedy, Drama, Sci-Fi",
+            "actors": "Leonardo DiCaprio, Jennifer Lawrence, Meryl Streep",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt6264654",
+            "title": "Free Guy",
+            "rating": "7.1",
+            "genre": "Action, Adventure, Comedy",
+            "actors": "Ryan Reynolds, Jodie Comer, Taika Waititi",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt2382320",
+            "title": "No Time to Die",
+            "rating": "7.3",
+            "genre": "Action, Adventure, Thriller",
+            "actors": "Daniel Craig, Ana de Armas, Rami Malek",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt11083552",
+            "title": "Wrath of Man",
+            "rating": "7.1",
+            "genre": "Action, Crime, Thriller",
+            "actors": "Jason Statham, Holt McCallany, Josh Hartnett",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt7888964",
+            "title": "Nobody",
+            "rating": "7.4",
+            "genre": "Action, Crime, Drama",
+            "actors": "Bob Odenkirk, Aleksey Serebryakov, Connie Nielsen",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt9777666",
+            "title": "The Tomorrow War",
+            "rating": "6.6",
+            "genre": "Action, Adventure, Drama",
+            "actors": "Chris Pratt, Yvonne Strahovski, J.K. Simmons",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt7144666",
+            "title": "The Black Phone",
+            "rating": "6.9",
+            "genre": "Horror, Mystery, Thriller",
+            "actors": "Mason Thames, Madeleine McGraw, Ethan Hawke",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt10366460",
+            "title": "CODA",
+            "rating": "8.0",
+            "genre": "Comedy, Drama, Music",
+            "actors": "Emilia Jones, Marlee Matlin, Troy Kotsur",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt9032400",
+            "title": "Eternals",
+            "rating": "6.2",
+            "genre": "Action, Adventure, Fantasy",
+            "actors": "Gemma Chan, Richard Madden, Angelina Jolie",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt11271038",
+            "title": "Licorice Pizza",
+            "rating": "7.1",
+            "genre": "Comedy, Drama, Romance",
+            "actors": "Will Angarola, Griff Giacchino, James Kelley",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt1879016",
+            "title": "Operation Mincemeat",
+            "rating": "6.6",
+            "genre": "Drama, War",
+            "actors": "Colin Firth, Matthew Macfadyen, Kelly Macdonald",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt4513678",
+            "title": "Ghostbusters: Afterlife",
+            "rating": "7.0",
+            "genre": "Adventure, Comedy, Fantasy",
+            "actors": "Carrie Coon, Paul Rudd, Finn Wolfhard",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt9421570",
+            "title": "The Guilty",
+            "rating": "6.3",
+            "genre": "Crime, Drama, Thriller",
+            "actors": "Jake Gyllenhaal, Riley Keough, Peter Sarsgaard",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt4244994",
+            "title": "The Last Duel",
+            "rating": "7.3",
+            "genre": "Drama, History, Thriller",
+            "actors": "Matt Damon, Adam Driver, Jodie Comer",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt6334354",
+            "title": "The Suicide Squad",
+            "rating": "7.2",
+            "genre": "Action, Adventure, Comedy",
+            "actors": "Margot Robbie, Idris Elba, John Cena",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt9376612",
+            "title": "Shang-Chi and the Legend of the Ten Rings",
+            "rating": "7.3",
+            "genre": "Action, Adventure, Fantasy",
+            "actors": "Simu Liu, Awkwafina, Tony Leung Chiu-wai",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt3228774",
+            "title": "Cruella",
+            "rating": "7.3",
+            "genre": "Adventure, Comedy, Crime",
+            "actors": "Emma Stone, Emma Thompson, Joel Fry",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt6566576",
+            "title": "Fear Street: Part One - 1994",
+            "rating": "6.2",
+            "genre": "Drama, Horror, Mystery",
+            "actors": "Kiana Madeira, Olivia Scott Welch, Benjamin Flores Jr.",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt8847712",
+            "title": "The French Dispatch",
+            "rating": "7.1",
+            "genre": "Comedy, Drama, Romance",
+            "actors": "Benicio Del Toro, Adrien Brody, Tilda Swinton",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt7991608",
+            "title": "Red Notice",
+            "rating": "6.3",
+            "genre": "Action, Comedy, Thriller",
+            "actors": "Dwayne Johnson, Ryan Reynolds, Gal Gadot",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt12361974",
+            "title": "Zack Snyder's Justice League",
+            "rating": "7.9",
+            "genre": "Action, Adventure, Fantasy",
+            "actors": "Henry Cavill, Ben Affleck, Gal Gadot",
+            "directors": [
+                "Director"
+            ]
+        }
+    ],
+    "2022": [
+        {
+            "id": "tt1630029",
+            "title": "Avatar: The Way of Water",
+            "rating": "7.5",
+            "genre": "Action, Adventure, Fantasy",
+            "actors": "Sam Worthington, Zoe Saldaña, Sigourney Weaver",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt1745960",
+            "title": "Top Gun: Maverick",
+            "rating": "8.2",
+            "genre": "Action, Drama",
+            "actors": "Tom Cruise, Jennifer Connelly, Miles Teller",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt11564570",
+            "title": "Glass Onion",
+            "rating": "7.1",
+            "genre": "Comedy, Crime, Drama",
+            "actors": "Daniel Craig, Edward Norton, Kate Hudson",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt1877830",
+            "title": "The Batman",
+            "rating": "7.8",
+            "genre": "Action, Crime, Drama",
+            "actors": "Robert Pattinson, Zoë Kravitz, Jeffrey Wright",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt14846026",
+            "title": "Sisu",
+            "rating": "6.9",
+            "genre": "Action, Thriller, War",
+            "actors": "Jorma Tommila, Aksel Hennie, Jack Doolan",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt13560574",
+            "title": "X",
+            "rating": "6.5",
+            "genre": "Horror, Mystery, Thriller",
+            "actors": "Mia Goth, Jenna Ortega, Brittany Snow",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt12593682",
+            "title": "Bullet Train",
+            "rating": "7.3",
+            "genre": "Action, Comedy, Thriller",
+            "actors": "Brad Pitt, Joey King, Aaron Taylor-Johnson",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt9764362",
+            "title": "The Menu",
+            "rating": "7.2",
+            "genre": "Comedy, Horror, Thriller",
+            "actors": "Ralph Fiennes, Anya Taylor-Joy, Nicholas Hoult",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt18925334",
+            "title": "Pearl",
+            "rating": "7.0",
+            "genre": "Drama, Horror, Thriller",
+            "actors": "Mia Goth, David Corenswet, Tandi Wright",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt6710474",
+            "title": "Everything Everywhere All at Once",
+            "rating": "7.7",
+            "genre": "Action, Adventure, Comedy",
+            "actors": "Michelle Yeoh, Stephanie Hsu, Jamie Lee Curtis",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt11138512",
+            "title": "The Northman",
+            "rating": "7.0",
+            "genre": "Action, Adventure, Drama",
+            "actors": "Alexander Skarsgård, Nicole Kidman, Claes Bang",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt11866324",
+            "title": "Prey",
+            "rating": "7.1",
+            "genre": "Action, Adventure, Horror",
+            "actors": "Amber Midthunder, Dakota Beavers, Dane DiLiegro",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt13833688",
+            "title": "The Whale",
+            "rating": "7.6",
+            "genre": "Drama",
+            "actors": "Brendan Fraser, Sadie Sink, Ty Simpkins",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt15791034",
+            "title": "Barbarian",
+            "rating": "7.0",
+            "genre": "Horror, Mystery, Thriller",
+            "actors": "Georgina Campbell, Bill Skarsgård, Justin Long",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt1649418",
+            "title": "The Gray Man",
+            "rating": "6.5",
+            "genre": "Action, Mystery, Thriller",
+            "actors": "Ryan Gosling, Chris Evans, Ana de Armas",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt1464335",
+            "title": "Uncharted",
+            "rating": "6.3",
+            "genre": "Action, Adventure",
+            "actors": "Tom Holland, Mark Wahlberg, Antonio Banderas",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt11813216",
+            "title": "The Banshees of Inisherin",
+            "rating": "7.7",
+            "genre": "Comedy, Drama",
+            "actors": "Colin Farrell, Brendan Gleeson, Kerry Condon",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt10640346",
+            "title": "Babylon",
+            "rating": "7.1",
+            "genre": "Comedy, Drama",
+            "actors": "Brad Pitt, Margot Robbie, Jean Smart",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt8115900",
+            "title": "The Bad Guys",
+            "rating": "6.9",
+            "genre": "Animation, Adventure, Comedy",
+            "actors": "Sam Rockwell, Marc Maron, Awkwafina",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt1016150",
+            "title": "All Quiet on the Western Front",
+            "rating": "7.8",
+            "genre": "Drama, History, War",
+            "actors": "Felix Kammerer, Albrecht Schuch, Aaron Hilmer",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt19770238",
+            "title": "Aftersun",
+            "rating": "7.6",
+            "genre": "Drama",
+            "actors": "Paul Mescal, Frankie Corio, Celia Rowlson-Hall",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt10638522",
+            "title": "Talk to Me",
+            "rating": "7.1",
+            "genre": "Horror, Thriller",
+            "actors": "Ari McCarthy, Hamish Phillips, Kit Erhart-Bruce",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt12477480",
+            "title": "Decision to Leave",
+            "rating": "7.3",
+            "genre": "Crime, Drama, Mystery",
+            "actors": "Tang Wei, Park Hae-il, Lee Jung-hyun",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt9411972",
+            "title": "Where the Crawdads Sing",
+            "rating": "7.2",
+            "genre": "Drama, Mystery, Romance",
+            "actors": "Daisy Edgar-Jones, Taylor John Smith, Harris Dickinson",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt3704428",
+            "title": "Elvis",
+            "rating": "7.3",
+            "genre": "Biography, Drama, Music",
+            "actors": "Austin Butler, Tom Hanks, Olivia DeJonge",
+            "directors": [
+                "Director"
+            ]
+        }
+    ],
+    "2023": [
+        {
+            "id": "tt15398776",
+            "title": "Oppenheimer",
+            "rating": "8.3",
+            "genre": "Biography, Drama, History",
+            "actors": "Cillian Murphy, Emily Blunt, Matt Damon",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt10545296",
+            "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+            "rating": "6.6",
+            "genre": "Action, Adventure, Drama",
+            "actors": "Rachel Zegler, Tom Blyth, Viola Davis",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt14230458",
+            "title": "Poor Things",
+            "rating": "7.8",
+            "genre": "Comedy, Drama, Romance",
+            "actors": "Emma Stone, Mark Ruffalo, Willem Dafoe",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt5537002",
+            "title": "Killers of the Flower Moon",
+            "rating": "7.5",
+            "genre": "Crime, Drama, History",
+            "actors": "Leonardo DiCaprio, Robert De Niro, Lily Gladstone",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt9362722",
+            "title": "Spider-Man: Across the Spider-Verse",
+            "rating": "8.5",
+            "genre": "Animation, Action, Adventure",
+            "actors": "Shameik Moore, Hailee Steinfeld, Brian Tyree Henry",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt14849194",
+            "title": "The Holdovers",
+            "rating": "7.9",
+            "genre": "Comedy, Drama",
+            "actors": "Paul Giamatti, Da'Vine Joy Randolph, Dominic Sessa",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt22041854",
+            "title": "Priscilla",
+            "rating": "6.5",
+            "genre": "Biography, Drama, Music",
+            "actors": "Cailee Spaeny, Jacob Elordi, Ari Cohen",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt26047818",
+            "title": "Anyone But You",
+            "rating": "6.1",
+            "genre": "Comedy, Romance",
+            "actors": "Sydney Sweeney, Glen Powell, Alexandra Shipp",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt4873118",
+            "title": "The Covenant",
+            "rating": "7.5",
+            "genre": "Action, Drama, Thriller",
+            "actors": "Jake Gyllenhaal, Dar Salim, Sean Sagar",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt10366206",
+            "title": "John Wick: Chapter 4",
+            "rating": "7.6",
+            "genre": "Action, Crime, Thriller",
+            "actors": "Keanu Reeves, Laurence Fishburne, George Georgiou",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt20215968",
+            "title": "Hit Man",
+            "rating": "6.8",
+            "genre": "Comedy, Crime, Romance",
+            "actors": "Glen Powell, Adria Arjona, Austin Amelio",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt6718170",
+            "title": "The Super Mario Bros. Movie",
+            "rating": "7.0",
+            "genre": "Animation, Adventure, Comedy",
+            "actors": "Kevin Michael Richardson, Jack Black, Khary Payton",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt23849204",
+            "title": "12th Fail",
+            "rating": "8.7",
+            "genre": "Biography, Drama",
+            "actors": "Vikrant Massey, Medha Shankr, Anant Joshi",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt17351924",
+            "title": "Saltburn",
+            "rating": "7.0",
+            "genre": "Drama, Thriller",
+            "actors": "Barry Keoghan, Jacob Elordi, Rosamund Pike",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt1517268",
+            "title": "Barbie",
+            "rating": "6.8",
+            "genre": "Adventure, Comedy, Fantasy",
+            "actors": "Margot Robbie, Ryan Gosling, Issa Rae",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt16431870",
+            "title": "The Family Plan",
+            "rating": "6.3",
+            "genre": "Action, Comedy",
+            "actors": "Mark Wahlberg, Michelle Monaghan, Ciarán Hinds",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt6166392",
+            "title": "Wonka",
+            "rating": "6.9",
+            "genre": "Adventure, Comedy, Family",
+            "actors": "Timothée Chalamet, Gustave Die, Murray McArthur",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt17009710",
+            "title": "Anatomy of a Fall",
+            "rating": "7.6",
+            "genre": "Crime, Drama, Mystery",
+            "actors": "Sandra Hüller, Swann Arlaud, Milo Machado-Graner",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt23289160",
+            "title": "Godzilla Minus One",
+            "rating": "7.7",
+            "genre": "Action, Adventure, Drama",
+            "actors": "Ryûnosuke Kamiki, Minami Hamabe, Yuki Yamada",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt9603212",
+            "title": "Mission: Impossible - Dead Reckoning Part One",
+            "rating": "7.6",
+            "genre": "Action, Adventure, Thriller",
+            "actors": "Tom Cruise, Hayley Atwell, Ving Rhames",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt15671028",
+            "title": "No Hard Feelings",
+            "rating": "6.3",
+            "genre": "Comedy, Romance",
+            "actors": "Jennifer Lawrence, Andrew Barth Feldman, Laura Benanti",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt1136617",
+            "title": "The Killer",
+            "rating": "6.7",
+            "genre": "Action, Adventure, Crime",
+            "actors": "Michael Fassbender, Tilda Swinton, Charles Parnell",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt6791350",
+            "title": "Guardians of the Galaxy Vol. 3",
+            "rating": "7.9",
+            "genre": "Action, Adventure, Comedy",
+            "actors": "Chris Pratt, Chukwudi Iwuji, Bradley Cooper",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt13238346",
+            "title": "Past Lives",
+            "rating": "7.8",
+            "genre": "Drama, Romance",
+            "actors": "Greta Lee, Teo Yoo, John Magaro",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt12747748",
+            "title": "Leave the World Behind",
+            "rating": "6.4",
+            "genre": "Drama, Mystery, Thriller",
+            "actors": "Julia Roberts, Mahershala Ali, Ethan Hawke",
+            "directors": [
+                "Director"
+            ]
+        }
+    ],
+    "2024": [
+        {
+            "id": "tt12908150",
+            "title": "The Life of Chuck",
+            "rating": "7.3",
+            "genre": "Drama, Fantasy, Sci-Fi",
+            "actors": "Tom Hiddleston, Jacob Tremblay, Benjamin Pajak",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt23149780",
+            "title": "Eden",
+            "rating": "6.5",
+            "genre": "Adventure, Drama, History",
+            "actors": "Jude Law, Ana de Armas, Vanessa Kirby",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt11539996",
+            "title": "Relay",
+            "rating": "7.0",
+            "genre": "Action, Drama, Thriller",
+            "actors": "Riz Ahmed, Lily James, Sam Worthington",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt1262426",
+            "title": "Wicked",
+            "rating": "7.4",
+            "genre": "Fantasy, Musical, Romance",
+            "actors": "Cynthia Erivo, Ariana Grande, Jeff Goldblum",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt17526714",
+            "title": "The Substance",
+            "rating": "7.2",
+            "genre": "Drama, Horror, Sci-Fi",
+            "actors": "Demi Moore, Margaret Qualley, Dennis Quaid",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt15239678",
+            "title": "Dune: Part Two",
+            "rating": "8.4",
+            "genre": "Action, Adventure, Drama",
+            "actors": "Timothée Chalamet, Zendaya, Rebecca Ferguson",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt28607951",
+            "title": "Anora",
+            "rating": "7.4",
+            "genre": "Comedy, Drama, Romance",
+            "actors": "Mikey Madison, Paul Weissman, Yura Borisov",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt1684562",
+            "title": "The Fall Guy",
+            "rating": "6.8",
+            "genre": "Action, Comedy, Drama",
+            "actors": "Ryan Gosling, Emily Blunt, Aaron Taylor-Johnson",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt21235248",
+            "title": "Ghostbusters: Frozen Empire",
+            "rating": "6.1",
+            "genre": "Adventure, Comedy, Fantasy",
+            "actors": "Paul Rudd, Carrie Coon, Finn Wolfhard",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt5040012",
+            "title": "Nosferatu",
+            "rating": "7.1",
+            "genre": "Fantasy, Horror, Mystery",
+            "actors": "Lily-Rose Depp, Nicholas Hoult, Bill Skarsgård",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt17279496",
+            "title": "Civil War",
+            "rating": "7.0",
+            "genre": "Action, Thriller, War",
+            "actors": "Kirsten Dunst, Wagner Moura, Cailee Spaeny",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt8999762",
+            "title": "The Brutalist",
+            "rating": "7.3",
+            "genre": "Drama",
+            "actors": "Adrien Brody, Felicity Jones, Guy Pearce",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt28015403",
+            "title": "Heretic",
+            "rating": "7.0",
+            "genre": "Horror, Thriller",
+            "actors": "Hugh Grant, Sophie Thatcher, Chloe East",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt6263850",
+            "title": "Deadpool & Wolverine",
+            "rating": "7.5",
+            "genre": "Action, Adventure, Comedy",
+            "actors": "Ryan Reynolds, Hugh Jackman, Emma Corrin",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt11563598",
+            "title": "A Complete Unknown",
+            "rating": "7.3",
+            "genre": "Biography, Drama, Music",
+            "actors": "Timothée Chalamet, Edward Norton, Elle Fanning",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt26446278",
+            "title": "The Count of Monte-Cristo",
+            "rating": "7.6",
+            "genre": "Action, Adventure, Drama",
+            "actors": "Pierre Niney, Bastien Bouillon, Anaïs Demoustier",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt5177120",
+            "title": "The Ministry of Ungentlemanly Warfare",
+            "rating": "6.8",
+            "genre": "Action, Comedy, War",
+            "actors": "Henry Cavill, Alan Ritchson, Alex Pettyfer",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt23468450",
+            "title": "Longlegs",
+            "rating": "6.6",
+            "genre": "Crime, Horror, Mystery",
+            "actors": "Maika Monroe, Nicolas Cage, Blair Underwood",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt9218128",
+            "title": "Gladiator II",
+            "rating": "6.5",
+            "genre": "Action, Adventure, Drama",
+            "actors": "Paul Mescal, Denzel Washington, Pedro Pascal",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt16426418",
+            "title": "Challengers",
+            "rating": "7.0",
+            "genre": "Comedy, Drama, Romance",
+            "actors": "Mike Faist, Josh O'Connor, Zendaya",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt30505698",
+            "title": "Friendship",
+            "rating": "6.7",
+            "genre": "Comedy",
+            "actors": "Tim Robinson, Paul Rudd, Kate Mara",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt29623480",
+            "title": "The Wild Robot",
+            "rating": "8.2",
+            "genre": "Animation, Adventure, Family",
+            "actors": "Lupita Nyong'o, Pedro Pascal, Kit Connor",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt18412256",
+            "title": "Alien: Romulus",
+            "rating": "7.1",
+            "genre": "Horror, Sci-Fi, Thriller",
+            "actors": "Cailee Spaeny, David Jonsson, Archie Renaux",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt22408160",
+            "title": "Kinds of Kindness",
+            "rating": "6.5",
+            "genre": "Comedy, Drama, Horror",
+            "actors": "Emma Stone, Jesse Plemons, Willem Dafoe",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt14961016",
+            "title": "I'm Still Here",
+            "rating": "8.2",
+            "genre": "Biography, Drama, History",
+            "actors": "Fernanda Torres, Fernanda Montenegro, Selton Mello",
+            "directors": [
+                "Director"
+            ]
+        }
+    ],
+    "2025": [
+        {
+            "id": "tt27543632",
+            "title": "The Housemaid",
+            "rating": "6.9",
+            "genre": "Drama, Thriller",
+            "actors": "Sydney Sweeney, Amanda Seyfried, Brandon Sklenar",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt32916440",
+            "title": "Marty Supreme",
+            "rating": "8.3",
+            "genre": "Drama, Sport",
+            "actors": "Timothée Chalamet, Gwyneth Paltrow, Odessa A'zion",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt30144839",
+            "title": "One Battle After Another",
+            "rating": "7.9",
+            "genre": "Action, Crime, Drama",
+            "actors": "Leonardo DiCaprio, Sean Penn, Benicio Del Toro",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt1757678",
+            "title": "Avatar: Fire and Ash",
+            "rating": "7.5",
+            "genre": "Action, Adventure, Fantasy",
+            "actors": "Sam Worthington, Zoe Saldaña, Sigourney Weaver",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt14364480",
+            "title": "Wake Up Dead Man",
+            "rating": "7.4",
+            "genre": "Comedy, Crime, Drama",
+            "actors": "Daniel Craig, Josh O'Connor, Glenn Close",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt29567915",
+            "title": "Nuremberg",
+            "rating": "7.4",
+            "genre": "Biography, Drama, History",
+            "actors": "Rami Malek, Russell Crowe, Michael Shannon",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt12300742",
+            "title": "Bugonia",
+            "rating": "7.5",
+            "genre": "Comedy, Crime, Sci-Fi",
+            "actors": "Emma Stone, Jesse Plemons, Aidan Delbis",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt31227572",
+            "title": "Predator: Badlands",
+            "rating": "7.3",
+            "genre": "Action, Adventure, Sci-Fi",
+            "actors": "Elle Fanning, Dimitrius Schuster-Koloamatangi, Ravi Narayan",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt31193180",
+            "title": "Sinners",
+            "rating": "7.5",
+            "genre": "Action, Drama, Horror",
+            "actors": "Michael B. Jordan, Jack O'Connell, Hailee Steinfeld",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt6604188",
+            "title": "Tron: Ares",
+            "rating": "6.3",
+            "genre": "Action, Adventure, Sci-Fi",
+            "actors": "Jared Leto, Greta Lee, Jeff Bridges",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt1312221",
+            "title": "Frankenstein",
+            "rating": "7.5",
+            "genre": "Drama, Fantasy, Horror",
+            "actors": "Oscar Isaac, Jacob Elordi, Christoph Waltz",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt26443597",
+            "title": "Zootopia 2",
+            "rating": "7.6",
+            "genre": "Animation, Action, Adventure",
+            "actors": "Ginnifer Goodwin, Jason Bateman, Ke Huy Quan",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt33014583",
+            "title": "Untitled Ranveer Singh/Aditya Dhar Project",
+            "rating": "N/A",
+            "genre": "N/A",
+            "actors": "Ranveer Singh, Sanjay Dutt, Madhavan",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt29768334",
+            "title": "Train Dreams",
+            "rating": "7.5",
+            "genre": "Drama",
+            "actors": "Joel Edgerton, Clifton Collins Jr., Felicity Jones",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt26581740",
+            "title": "Weapons",
+            "rating": "7.5",
+            "genre": "Horror, Mystery",
+            "actors": "Julia Garner, Josh Brolin, Alden Ehrenreich",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt27714581",
+            "title": "Sentimental Value",
+            "rating": "7.9",
+            "genre": "Drama",
+            "actors": "Renate Reinsve, Stellan Skarsgård, Inga Ibsdotter Lilleaas",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt16311594",
+            "title": "F1: The Movie",
+            "rating": "7.7",
+            "genre": "Action, Drama, Sport",
+            "actors": "Brad Pitt, Damson Idris, Javier Bardem",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt10548174",
+            "title": "28 Years Later",
+            "rating": "6.6",
+            "genre": "Horror, Sci-Fi, Thriller",
+            "actors": "Jodie Comer, Aaron Taylor-Johnson, Ralph Fiennes",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt30446847",
+            "title": "Jay Kelly",
+            "rating": "6.4",
+            "genre": "Comedy, Drama",
+            "actors": "George Clooney, Adam Sandler, Laura Dern",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt24950660",
+            "title": "Eternity",
+            "rating": "7.0",
+            "genre": "Comedy, Drama, Fantasy",
+            "actors": "Miles Teller, Elizabeth Olsen, Callum Turner",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt14107334",
+            "title": "The Running Man",
+            "rating": "6.4",
+            "genre": "Action, Adventure, Sci-Fi",
+            "actors": "Glen Powell, Alyssa Benn, Sienna Benn",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt9362736",
+            "title": "Die My Love",
+            "rating": "6.1",
+            "genre": "Drama, Thriller",
+            "actors": "Jennifer Lawrence, Robert Pattinson, Sissy Spacek",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt4627382",
+            "title": "Roofman",
+            "rating": "7.0",
+            "genre": "Biography, Crime, Drama",
+            "actors": "Channing Tatum, Kirsten Dunst, LaKeith Stanfield",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt4712810",
+            "title": "Now You See Me: Now You Don't",
+            "rating": "6.0",
+            "genre": "Crime, Thriller",
+            "actors": "Jesse Eisenberg, Woody Harrelson, Dave Franco",
+            "directors": [
+                "Director"
+            ]
+        },
+        {
+            "id": "tt10374610",
+            "title": "The Long Walk",
+            "rating": "6.8",
+            "genre": "Horror, Sci-Fi, Thriller",
+            "actors": "Cooper Hoffman, David Jonsson, Garrett Wareing",
+            "directors": [
+                "Director"
+            ]
+        }
+    ]
+}

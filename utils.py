@@ -3,7 +3,7 @@ import pandas as pd
 
 #converting json to df
 movies= None
-with open("id_list.json", "r", encoding="utf-8") as f:
+with open("movie_list.json", "r", encoding="utf-8") as f:
     movies = dict(json.load(f))
 
 movie_dict = {"id":[],"title":[],"rating":[],"genre":[],"year":[]}
