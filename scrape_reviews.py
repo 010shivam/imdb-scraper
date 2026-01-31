@@ -61,7 +61,10 @@ for i in range(len(ids)):
         data = pd.DataFrame(imdb_review)
         data.to_csv("./data/imdb_reviews.csv",mode="a",index=False,header=False)
         imdb_review =[]
-    imdb_review.append(scroll_click(ids[i],driver))
+    imdb_review+=scroll_click(ids[i],driver)
+data = pd.DataFrame(imdb_review)
+data.to_csv("./data/imdb_reviews.csv",mode="a",index=False,header=False)
+
 driver.quit()
 
 
