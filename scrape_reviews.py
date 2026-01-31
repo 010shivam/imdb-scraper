@@ -57,11 +57,11 @@ driver = webdriver.Chrome()
 imdb_review=[]
 for i in range(len(ids)):
     print(f"Movie:{i}- {ids[i]}")
-    if (i)%25==0:
+    if (i+1)%25==0:
         data = pd.DataFrame(imdb_review)
         data.to_csv("./data/imdb_reviews.csv",mode="a",index=False,header=False)
         imdb_review =[]
-    imdb_review+=scroll_click(ids[i],driver)
+    imdb_review.append(scroll_click(ids[i],driver))
 driver.quit()
 
 
